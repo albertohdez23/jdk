@@ -6,4 +6,4 @@ Este repositorio esta dedicado a los pasos de instalación de OpenJDK en Ubuntu 
 
 ## Como instalar Java en Ubuntu desde repositorios
 
-<ing src"https://images.pushsquare.com/761169b05a29d/god-of-war.original.jpg"
+<img src="https://images.pushsquare.com/761169b05a29d/god-of-war.original.jpg">
